@@ -7,5 +7,5 @@ for (let count = 1; count < 51 ;count++) {
   }
   if (count == 50) {
     alert('50回カウントが終わりました。');
-   }
+  }
 }
